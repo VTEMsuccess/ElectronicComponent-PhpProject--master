@@ -1,0 +1,16 @@
+//thong tin sau khi thanh toán
+partnerCode=MOMOBKUN20180529
+&orderId=1711520508
+&requestId=1711520508
+&amount=10000
+&orderInfo=Thanh+to%C3%A1n+qua+MoMo
+&orderType=momo_wallet
+&transId=4008337085
+&resultCode=0
+&message=Successful.
+&payType=napas
+&responseTime=1711520554743
+&extraData=
+&signature=058edeacd59a08f5337d8ea46db922f32909d454d17a7702402fdd3a5545f8a0
+&paymentOption=momo
+
