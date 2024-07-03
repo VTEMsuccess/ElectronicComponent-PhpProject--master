@@ -1,4 +1,4 @@
-# Trang web ban hang online ( pay with momo)
+# Đồ Án TTTT-KTPM hè 2023-2024 Trang web ban hang online ( pay with momo)
   * Về lý thuyết sử dụng mô hình kiến trúc client-server, về lập trình: Front-end sử dụng HTML, CSS, Javascript, Back-end sử dụng PHP, Database sử dụng MySQL database.
   *  Sơ đồ phân rã chức năng
    ![image](https://github.com/VTEMsuccess/ElectronicComponent-PhpProject--master/assets/89713168/964853f0-6f4e-4265-99c8-78a3a0117602)
